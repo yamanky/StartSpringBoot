@@ -1,12 +1,12 @@
-package com.yamanky.SpringJPA;
+package com.yamanky.SpringDataJPA;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringJpaApplication {
+public class SpringDataJpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringJpaApplication.class, args);
+		SpringApplication.run(SpringDataJpaApplication.class, args);
 	}
 }
